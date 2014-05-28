@@ -1,0 +1,5 @@
+name:anonym
+zvuk:1
+obrazek:0
+zamichani:40
+animace:1
